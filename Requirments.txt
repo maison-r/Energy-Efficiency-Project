@@ -1,0 +1,5 @@
+Packages needed for this project:
+- Pandas 
+- Numpy 
+- Matplotlib
+- Scikit-learn
